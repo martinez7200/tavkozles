@@ -1,9 +1,9 @@
 
 # MÉRÉSI JEGYZŐKÖNYV
 
-**A mérést végző neve:**  
+**A mérést végző neve:**  Horváth Martin
 
-**A mérés tárgya:** 
+**A mérés tárgya:** Távközlési Technika        
 
 **A mérés száma:** 01
 
@@ -13,7 +13,7 @@
 
 **Csoport:** GYAK 2  
 
-**Helyszín:**   
+**Helyszín:** V3. Labor
 
 ---
 
