@@ -2,6 +2,7 @@
 # MÉRÉSI JEGYZŐKÖNYV
 
 **A mérést végző neve:**  
+
 **A mérés tárgya:** 
 
 **A mérés száma:** 01
@@ -9,7 +10,9 @@
 **A mérés dátuma:**   2024.12.04 
 
 **Évfolyam:** 13. E  
+
 **Csoport:** GYAK 2  
+
 **Helyszín:**   
 
 ---
