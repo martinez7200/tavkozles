@@ -42,6 +42,7 @@ Cél: A tanulók megismerjék a Johansson 8202 DVB-T modulátor működését, k
 ---
 
 ## 3. Adattáblázat: 
+
 | Mérési paraméter | RF Frekvencia (MHz) | Moduláció típusai | Sávszélesség (MHz) | Jelszint (dBm) |
 Bitsebesség
 (Mbps)
@@ -111,6 +112,7 @@ QPSK
 -31
 4.3
 39.9
+
 ---
 
 ## 4. Antennák teljesítménye különböző frekvenciákon
