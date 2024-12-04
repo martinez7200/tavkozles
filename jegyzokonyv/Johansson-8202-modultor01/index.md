@@ -61,7 +61,7 @@ Cél: A tanulók megismerjék a Johansson 8202 DVB-T modulátor működését, k
 
 ---
 
-## 4. Antennák teljesítménye különböző frekvenciákon
+## 4. Mérések többféle modulációval:
 
 
 ---
