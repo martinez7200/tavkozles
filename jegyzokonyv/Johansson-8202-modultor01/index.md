@@ -45,6 +45,10 @@ Cél: A tanulók megismerjék a Johansson 8202 DVB-T modulátor működését, k
 
 | Mérési paraméter    | RF Frekvencia (MHz) | Moduláció típusai   | Sávszélesség (MHz)  |Jelszint (dBm) |Bitsebesség (Mbps) |MER érték (dB) |
 |---------------------|---------------------|---------------------|---------------------|---------------|-------------------|---------------|
+|Mérési eredmény 1|
+|Mérési eredmény 2|
+|Mérési eredmény 3|
+
 
 ---
 
