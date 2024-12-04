@@ -68,7 +68,7 @@ Cél: A tanulók megismerjék a Johansson 8202 DVB-T modulátor működését, k
 
 ## 5. Következtetések:
 
-
+A mérések alapján megállapítható, hogy a 64-QAM moduláció a legmagasabb adatsebességet biztosít, viszont a jelkódolás minősége (MER) alacsonyabb, mint a kisebb modulációs rendeknél, mint például a 16-QAM és a QPSK. Ezzel szemben a QPSK moduláció kiváló MER értékeket mutatott, de a bitsebessége jelentősen alacsonyabb volt.
 
 ---
 
