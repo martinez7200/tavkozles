@@ -70,9 +70,6 @@ Cél: A tanulók megismerjék a Johansson 8202 DVB-T modulátor működését, k
 
 
 
-
-**Aláírás:** ...
-
-**Dátum:** ...
+---
 
 
