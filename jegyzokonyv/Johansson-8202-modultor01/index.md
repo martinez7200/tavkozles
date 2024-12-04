@@ -36,8 +36,7 @@ Cél: A tanulók megismerjék a Johansson 8202 DVB-T modulátor működését, k
 | Műszer neve                         | Típus       | Gyártási szám |
 | ----------------------------------- | ----------- | ------------- |
 | Johansson Hdmi modulátor  | 8202    | 2341010237504          |
-| METEK HD 
-spektrum/jelszint analizátor| ...       | ...    |
+| METEK HD spektrum/jelszint analizátor| 240002 | ...    |
 | ...                             | ...       | ...    |
 | ...                 | ...       | ...           |
 
