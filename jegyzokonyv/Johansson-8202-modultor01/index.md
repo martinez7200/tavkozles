@@ -48,11 +48,11 @@ Cél: A tanulók megismerjék a Johansson 8202 DVB-T modulátor működését, k
 |Mérési eredmény 1    |   212               |     64 QAM          |           7         |     -29.6     |      15.8         |    38.3       |
 |Mérési eredmény 2    |   212               |     16 QAM          |           7         |     -29.4     |      7.8          |    36.4       |
 |Mérési eredmény 3    |   212               |      QPSK           |           7         |     -29.4     |      3.7          |    39.9       |
-|-----------------    |---------------------|
+
 |Mérési eredmény 1    |       474           |     64 QAM          |           8         |      -31      |      18           |    36.8       |
 |Mérési eredmény 2    |       474           |     16 QAM          |           8         |      -30.7    |      9.1          |    35.3       |      
 |Mérési eredmény 3    |       474           |       QPSK          |           8         |      -30.4    |      4.2          |    39.4       |    
-|-----------------    |
+
 |Mérési eredmény 1    |       546           |     16 QAM          |           8         |      -30.3    |      18.3         |    36.1       | 
 |Mérési eredmény 2    |       546           |     16 QAM          |           8         |      -30.2    |      9.2          |    35.8       |
 |Mérési eredmény 3    |       546           |      QPSK           |           8         |      -31      |      4.3          |    39.9       |
