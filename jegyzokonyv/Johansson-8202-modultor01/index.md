@@ -66,14 +66,7 @@ Cél: A tanulók megismerjék a Johansson 8202 DVB-T modulátor működését, k
 
 ---
 
-## 5. Mérési eredmények elemzése
-Az adatok alapján az alábbi következtetéseket lehet levonni:
-
-- ...
-- ...
-- ...
----
-
+## 5. Következtetések:
 
 
 
