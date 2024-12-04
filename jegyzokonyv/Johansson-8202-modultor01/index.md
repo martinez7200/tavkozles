@@ -1,7 +1,7 @@
 
 # MÉRÉSI JEGYZŐKÖNYV
 
-**A mérést végző neve:**  Horváth Martin
+**A mérést végző neve:**  Horváth Martin és Csépke Péter
 
 **A mérés tárgya:** Távközlési Technika        
 
