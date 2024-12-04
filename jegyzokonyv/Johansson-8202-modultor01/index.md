@@ -34,9 +34,8 @@ Cél: A tanulók megismerjék a Johansson 8202 DVB-T modulátor működését, k
 ## 2. Alkalmazott mérőeszközök és készülékek
 
 | Műszer neve                         | Típus       | Gyártási szám | Kép |
-| ----------------------------------- | ----------- | ------------- |![image](https://github.com/user-attachments/assets/126172ef-3706-4737-8f5c-2e1a54f0cc23)
-|
-| Johansson Hdmi modulátor  | 8202    | 2341010237504          |---------
+| ----------------------------------- | ----------- | ------------- |![image](https://github.com/user-attachments/assets/126172ef-3706-4737-8f5c-2e1a54f0cc23)|
+| Johansson Hdmi modulátor  | 8202    | 2341010237504          |---------|
 | METEK HD spektrum/jelszint analizátor| 240002 | ...    |--------|
 | Laptop | HP       | ...    |-----|
 
