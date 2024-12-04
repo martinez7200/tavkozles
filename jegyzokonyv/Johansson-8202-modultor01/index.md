@@ -43,8 +43,8 @@ Cél: A tanulók megismerjék a Johansson 8202 DVB-T modulátor működését, k
 
 ## 3. Adattáblázat: 
 
-| Mérési paraméter    | RF Frekvencia (MHz) |
-|---------------------|---------------------|
+| Mérési paraméter    | RF Frekvencia (MHz) | Moduláció típusai   |
+|---------------------|---------------------|---------------------|---------------------|
 
 ---
 
