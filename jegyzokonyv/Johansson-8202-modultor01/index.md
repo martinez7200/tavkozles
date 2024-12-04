@@ -41,7 +41,7 @@ Cél: A tanulók megismerjék a Johansson 8202 DVB-T modulátor működését, k
 
 ---
 
-### 3. **Mérési helyszín és környezet**
+## 3.Adattáblázat:
 
 ---
 
