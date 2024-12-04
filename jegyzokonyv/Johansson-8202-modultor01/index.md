@@ -21,6 +21,16 @@
 Cél: A tanulók megismerjék a Johansson 8202 DVB-T modulátor működését, konfigurációs lehetőségeit, és méréseket végezzenek a METEK HD spektrum/jelszint analizátorral. A mérési eredményeket rögzítik jegyzőkönyv formájában.
 
 ---
+## 2. Menete
+Menete: 
+Előkészítettük a megfelelő műszereket a mérés végzéséhez;
+Összecsatlakoztattuk a METEK HD spektrum/jelszint analizátort a Johansson 8202 hdmi modulátorral;
+Beállítottuk a Johansson 8202 hdmi modulátort az adott frekvencia sávokra;
+A METEK HD analizátorral rááltunk a modulátorral létrehozott sávokra;
+Egy adott frekvencián három féle moduláció típust használtunk a jelszint, bitsebesség, MER érték meghatározására;
+A kapott adatokat egy táblázatban összegyűjtöttük.
+
+---
 
 ## 2. Alkalmazott mérőeszközök és készülékek
 
