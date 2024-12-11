@@ -30,12 +30,6 @@
 
 ---
 
-### 3. **Mérési helyszín és környezet**
-- **Antenna magassága**: ...
-- **Környezet jellemzői**: ...
-- **Adó távolsága**: ...
-
----
 
 ## 4. Antennák teljesítménye különböző frekvenciákon
 
