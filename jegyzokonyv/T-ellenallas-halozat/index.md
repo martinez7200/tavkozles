@@ -4,9 +4,9 @@
 
 **A mérést végző neve:**  
 **A mérés tárgya:** 
-**A mérés száma:**  
+**A mérés száma:**  01
 **A mérés dátuma:**   
-**A mérést vezette:** Sándor Péter  
+  
 
 **Évfolyam:** 13. E  
 **Csoport:** GYAK 2  
