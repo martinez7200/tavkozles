@@ -29,24 +29,6 @@
 | ...                 | ...       | ...           |
 
 ---
-
-
-## 4. Antennák teljesítménye különböző frekvenciákon
-
-| Frekvencia (MHz) | Antenna          | Jelszint (dBm) | MER (dB) | Bitsebesség (Mbps) |
-| ---------------- | ---------------- | -------------- | -------- | ------------------ |
-| **...**      | ...        | ...          | ...     | ...          |
-|                  | ...      | ...          | ...     | ...          |
-|                  | ... | ...          | ...     | ...          |
-| **...**      | ...        | ...          | ...     | ...          |
-|                  | ...      | ...          | ...     | ...         |
-|                  | ... | ...          | ...     | ...          |
-| **...**      | ...        | ...          | ...     | ...          |
-|                  | ...      | ...          | ...     | ...          |
-|                  | ... | ...          | ...     | ...          |
-
----
-
 ## 5. Mérési eredmények elemzése
 Az adatok alapján az alábbi következtetéseket lehet levonni:
 
