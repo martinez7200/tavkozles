@@ -1,7 +1,7 @@
 # MÉRÉSI JEGYZŐKÖNYV
 ## Johansson 6700 Profiler programozható antennaerősítő-szűrő használata
 
-**A mérést végző neve:** Orosz Szabolcs, Csépke Péter és Horvát Martin  
+**A mérést végző neve:** Orosz Szabolcs, Csépke Péter és Horváth Martin  
 **A mérés tárgya:** 07 - Frekvencia áthelyezés mérési feladat.  
 **A mérés száma:** 07. mérés  
 **A mérés dátuma:** 2024. 12. 11.  
