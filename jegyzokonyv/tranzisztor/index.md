@@ -1,6 +1,6 @@
 # MÉRÉSI JEGYZŐKÖNYV   
 ## Méréstechnikai Feladat: Tranzisztor működésének vizsgálata  
-A mérést végző neve: Orosz Szabolcs  
+A mérést végző neve: Horváth Martin  
 A mérés tárgya: Tranzisztor működésének vizsgálata  
 A mérés száma: 05. mérés  
 A mérés dátuma: 2025. 01. 08  
