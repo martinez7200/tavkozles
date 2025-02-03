@@ -19,7 +19,7 @@
 
 - **Multiplex keresés**:  
   Az Avasi adótoronyból elérhető multiplexek és adatok lekérdezése az internetes adatbázisból:  
-  - **Frekvencia**: [megadott frekvencia]  
+  - **Frekvencia**: [634 MHz]  
   - **Teljesítmény**: [megadott teljesítmény]  
   - **Polarizáció**: [megadott polarizáció]  
   - **Adás típusa**: [DVB-T, stb.]
