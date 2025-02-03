@@ -9,7 +9,7 @@
 
 ## 1. Előkészületek
 - **Eszközök ellenőrzése**:
-  - Antenna: [Megadott típus, pl. beltéri/kültéri]
+  - Antenna: [Iscar UHF TV Antenna P-2845, kültéri]
   - Fejállomás: LEMCO SCL-824CT 8 × DVB-S/S2/T/T2/C to 4 × DVB-T/C & IP (FTA)
   - Set-top box: MAG IPTV
   - Hálózati eszköz: IGMP támogatású és DHCP képes router
@@ -75,16 +75,16 @@
 - **Antenna mérése**:
   - **Spektrum analizátor**: Kép rögzítése.
   - **Jelszint és jelminőség mérés**:  
-    - **Jelerősség (dBμV)**: [érték]  
+    - **Jelerősség (dBμV)**: [51dB]  
     - **Jel-zaj viszony (SNR - dB)**: [érték]  
     - **Bit Error Rate (BER)**: [érték]  
-    - **Modulation Error Ratio (MER - dB)**: [érték]  
+    - **Modulation Error Ratio (MER - dB)**: [25dB]  
     - **Csillapítás (dB)**: [érték]
   - **Antenna pozíciók és szögek**:  
-    - **Polarizáció**: [érték]
+    - **Polarizáció**: [DNY:234°]
   - **Időjárási körülmények**:  
-    - Hőmérséklet: [érték]  
-    - Szélsebesség: [érték]  
+    - Hőmérséklet: [5°C]  
+    - Szélsebesség: [3,2m/s]  
     - Egyéb megjegyzések: [ha releváns]
 
 - **Fejállomás mérése**:  
