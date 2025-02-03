@@ -12,7 +12,7 @@
   - Antenna: [Iscar UHF TV Antenna P-2845, kültéri]
   - Fejállomás: LEMCO SCL-824CT 8 × DVB-S/S2/T/T2/C to 4 × DVB-T/C & IP (FTA)
   - Set-top box: MAG IPTV
-  - Hálózati eszköz: IGMP támogatású és DHCP képes router
+  - Hálózati eszköz: IGMP támogatású és DHCP képes router (Tp link archer c7)  
   - Mérőműszer: METEK HDD digitális TV jelmérő
   - Koaxiális kábelek, csatlakozók, jelosztó, UTP kábelek
   - Szerelési eszközök: csavarhúzó, villáskulcs, kábelvágó, iránytű, dőlésszögmérő
