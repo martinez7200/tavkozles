@@ -21,7 +21,7 @@
   Az Avasi adótoronyból elérhető multiplexek és adatok lekérdezése az internetes adatbázisból:  
   - **Frekvencia**: [634 MHz]  
   - **Teljesítmény**: [megadott teljesítmény]  
-  - **Polarizáció**: [megadott polarizáció]  
+  - **Polarizáció**: DNY: 234°  
   - **Adás típusa**: [DVB-T, stb.]
 
 ---
