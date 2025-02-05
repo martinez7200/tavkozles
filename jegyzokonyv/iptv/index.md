@@ -22,7 +22,7 @@
   - **Frekvencia**: [634 MHz]  
   - **Teljesítmény**: [megadott teljesítmény]  
   - **Polarizáció**: DNY: 234°  
-  - **Adás típusa**: [DVB-T, stb.]
+  - **Adás típusa**: DVB-T
 
 ---
 
