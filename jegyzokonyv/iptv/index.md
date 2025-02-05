@@ -106,7 +106,7 @@
           <img src="https://martinez7200.github.io/tavkozles/jegyzokonyv/iptv/Képernyőkép 2025-02-04 084129.png"/>
           <img src="https://martinez7200.github.io/tavkozles/jegyzokonyv/iptv/Képernyőkép 2025-02-04 084154.png"/>
           <img src="https://martinez7200.github.io/tavkozles/jegyzokonyv/iptv/Képernyőkép 2025-02-04 084154.png"/>
-          <img src="https://martinez7200.github.io/tavkozles/jegyzokonyv/iptv/Képernyőkép 2025-02-04 084216.png"/>
+          <img src="https://martinez7200.github.io/tavkozles/jegyzokonyv/iptv/Képernyőkép 2025-02-04 084250.png"/>
          
           </details> 
 ---
