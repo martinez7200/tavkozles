@@ -97,6 +97,9 @@
       A stream elemzése, csomagvesztés vizsgálata.
       - **FFmpeg elemzés**:  
         - Bitráta, késleltetés, csomagvesztés mérése.
+          <details>
+   <img src="https://jegyzokonyv/iptv/Képernyőkép 2025-02-04 084129.png"/>
+   </details> 
 
 ---
 
