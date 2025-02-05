@@ -87,7 +87,7 @@
     - Szélsebesség: [3,2m/s]  
     - Egyéb megjegyzések: [ha releváns]
     -  <details>
-          <img src="https://martinez7200.github.io/tavkozles/jegyzokonyv/iptv/Képernyőkép 2025-02-04 084129.png"/>
+          <img src="https://martinez7200.github.io/tavkozles/jegyzokonyv/iptv/its_snapshot_0001.bmp másolata"/>
           <img src="https://martinez7200.github.io/tavkozles/jegyzokonyv/iptv/its_snapshot_0001.bmp"/>
           </details> 
      
