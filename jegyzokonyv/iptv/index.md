@@ -98,7 +98,7 @@
       - **FFmpeg elemzés**:  
         - Bitráta, késleltetés, csomagvesztés mérése.
           <details>
-             <img src="https://martinez7200.github.io/jegyzokonyv/iptv/Képernyőkép 2025-02-04 084129.png"/>
+             <img src="https://martinez7200.github.io/tavkozles/jegyzokonyv/iptv/Képernyőkép 2025-02-04 084129.png"/>
           </details> 
 
 ---
