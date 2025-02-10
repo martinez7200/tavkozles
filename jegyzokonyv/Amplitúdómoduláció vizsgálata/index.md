@@ -12,11 +12,6 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
 ---
 
 ## Használt eszközök:
-- **GRF-1300A RF és kommunikációs tréner**
-  <br><img width="200" src="https://martinez7200.github.io/tavkozles/jegyzokonyv/Amplitúdómoduláció vizsgálata/grf-1300a.jpg"/>
-- **GSP-730 Spektrumanalizátor (a tréner része)**
-  <br><img width="200" src="https://martinez7200.github.io/tavkozles/jegyzokonyv/Amplitúdómoduláció vizsgálata/hmo1002-hero-1200x735-White-b.jpg"/>
-- **Jelgenerátor (moduláló jel előállításához)**
 
 | Eszköz                                | Gyártásszám | Típus         | Kép                                                                 |
 |---------------------------------------|-------------|---------------|---------------------------------------------------------------------|
