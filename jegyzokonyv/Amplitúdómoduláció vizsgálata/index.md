@@ -37,10 +37,10 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
 
 ## Második mérés
 1. **Vivőfrekvencia beállítása:**
-   - A GRF-1300A tréneren beállítottuk az RF vivőfrekvenciát elöször :**880 MHz**
+   - A GRF-1300A tréneren beállítottuk az RF vivőfrekvenciát elöször :**900 MHz**
                                                                       
 2. **Moduláló jel beállítása:**
-   - Állítsuk be a moduláló jelet, amely egy **100 kHz szinuszjel** lesz.
+   - Állítsuk be a moduláló jelet, amely egy **500 kHz szinuszjel** lesz.
      
 3. **Modulációs mélység:**  
    - 100% modulácós mélységet beállítottuk 63%-ra.
