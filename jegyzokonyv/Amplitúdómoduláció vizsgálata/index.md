@@ -17,8 +17,9 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
 - **GSP-730 Spektrumanalizátor (a tréner része)**
   <br><img width="200" src="https://martinez7200.github.io/tavkozles/jegyzokonyv/Amplitúdómoduláció vizsgálata/hmo1002-hero-1200x735-White-b.jpg"/>
 - **Jelgenerátor (moduláló jel előállításához)**
-| Műszer neve                         | Típus       | Gyártási szám | Kép |
-| ----------------------------------- | ----------- | ------------- |-----|
+
+| Műszer neve | Típus       | Gyártási szám | Kép |
+|-----------  | GRF-1300A | ------------- |<img width="200" src="https://martinez7200.github.io/tavkozles/jegyzokonyv/Amplitúdómoduláció vizsgálata/grf-1300a.jpg"/>|
 | Johansson Hdmi modulátor            | 8202        | 2341010237504 |---------|
 | METEK HD spektrum/jelszint analizátor| 240002     | ...           |--------|
 | Laptop | HP       | ...    |-----|
