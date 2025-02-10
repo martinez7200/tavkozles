@@ -6,12 +6,12 @@
 
 ---
 
-# Feladat:
+## Feladat:
 A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommunikációs tréner használatával. A vizsgálat során beállítjuk a megfelelő RF vivőfrekvenciát, moduláló jelet, majd megvizsgáljuk az AM jel spektrumát, mérjük a jelszintet, a sávszélességet és a modulációs mélységet.
 
 ---
 
-# Használt eszközök:
+## Használt eszközök:
 - **GRF-1300A RF és kommunikációs tréner**
   <br><img width="200" src="https://martinez7200.github.io/tavkozles/jegyzokonyv/Amplitúdómoduláció vizsgálata/grf-1300a.jpg"/>
 - **GSP-730 Spektrumanalizátor (a tréner része)**
@@ -23,7 +23,7 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
 
 ---
 
-# Beállítások:
+## Beállítások:
 ## Első mérés
 
 1. **Vivőfrekvencia beállítása:**
