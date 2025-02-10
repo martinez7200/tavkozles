@@ -66,7 +66,7 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
 ## Mérési adatok:
 - **Vivőfrekvencia:** 880 MHz
 - **Moduláló jel:** 100 kHz szinuszjel
-- **Jelszint:** [érték]
+- **Jelszint:** -30 dB
 - **Modulációs mélység:** 6 dB
 - **Sávszélesség:**  30 KHz
 - **Span:** 5 MHz
@@ -74,7 +74,7 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
   
 - **Vivőfrekvencia:** 900 MHz
 - **Moduláló jel:** 500 kHz szinuszjel
-- **Jelszint:** [érték]
+- **Jelszint:** -32 dB
 - **Modulációs mélység:** 10 dB
 - **Sávszélesség:** 30 KHz
 - **Span:** 5 MHz
