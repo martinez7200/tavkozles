@@ -32,15 +32,11 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
                                                                       
 2. **Moduláló jel beállítása:**
    - Állítsuk be a moduláló jelet, amely egy **100 kHz szinuszjel** lesz.
+3. **Modulációs mélység:**
+  -100% modulácós mélységet beállítottuk 63%-ra
 
-3. **Jelgenerátor csatlakoztatása:**
-   - A jelgenerátor segítségével biztosítsuk, hogy a moduláló jel (100 kHz szinuszjel) a GRF-1300A tréner bemenetére kerüljön.
-
-4. **Moduláció beállítása:**
+5. **Moduláció beállítása:**
    - Aktiváljuk az amplitúdómoduláció (AM) üzemmódot a tréneren, és csatlakoztassuk a moduláló jelet.
-
-5. **Spektrumanalizátor csatlakoztatása:**
-   - A GRF-1300A RF kimenetét csatlakoztassuk a spektrumanalizátorhoz, hogy megfigyelhessük a generált AM jel spektrumát.
 
 ---
 
