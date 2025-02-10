@@ -47,7 +47,6 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
 
 ---
 ## Eredmények
-  <img width="500" src="https://martinez7200.github.io/tavkozles/jegyzokonyv/Amplitúdómoduláció vizsgálata/Képernyőkép 2025-02-10 143503.png"/>
 
 ## 880 MHz-nél 
 
