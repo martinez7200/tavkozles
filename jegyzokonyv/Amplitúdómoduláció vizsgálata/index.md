@@ -6,7 +6,7 @@
 
 ---
 
-## Feladat:
+# Feladat:
 A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommunikációs tréner használatával. A vizsgálat során beállítjuk a megfelelő RF vivőfrekvenciát, moduláló jelet, majd megvizsgáljuk az AM jel spektrumát, mérjük a jelszintet, a sávszélességet és a modulációs mélységet.
 
 ---
