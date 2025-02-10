@@ -42,6 +42,7 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
 ---
 
 ## Mérések és elemzés:
+<details>
 
 1. **Jelszint mérése:**
    - Mérjük meg a generált AM jel jelszintjét a spektrumanalizátor segítségével. A spektrumon figyeljük meg a vivőfrekvenciát és a mellékcsúcsokat.
@@ -63,7 +64,7 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
 
 4. **Sávszélesség meghatározása:**
    - A sávszélességet a spektrumkép alapján mérhetjük. A modulált jel sávszélessége a mellékcsúcsok közötti távolság alapján meghatározható.
-   - A mérés során figyeljük meg a két első mellékcsúcs közötti frekvenciát, és ennek alapján számoljuk ki a sávszélességet.
+   - A mérés során figyeljük meg a két első mellékcsúcs közötti frekvenciát, és ennek alapján számoljuk ki a sávszélességet.</details>
 
 ---
 
