@@ -32,7 +32,7 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
                                                                       
 2. **Moduláló jel beállítása:**
    - Állítsuk be a moduláló jelet, amely egy **100 kHz szinuszjel** lesz.
-3. **Modulációs mélység:**
+3. **Modulációs mélység:**  
   -100% modulácós mélységet beállítottuk 63%-ra
 
 5. **Moduláció beállítása:**
