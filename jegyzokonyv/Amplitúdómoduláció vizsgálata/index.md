@@ -23,7 +23,7 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
 
 ---
 
-## Beállítások:   <img width="500" src="https://martinez7200.github.io/tavkozles/jegyzokonyv/Amplitúdómoduláció vizsgálata/Képernyőkép 2025-02-10 143503.png"/>
+## Beállítások: <br><img width="500" src="https://martinez7200.github.io/tavkozles/jegyzokonyv/Amplitúdómoduláció vizsgálata/Képernyőkép 2025-02-10 143503.png"/>
 ## Első mérés
 
 1. **Vivőfrekvencia beállítása:**
