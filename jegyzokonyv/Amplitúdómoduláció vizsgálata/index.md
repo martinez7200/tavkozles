@@ -20,8 +20,10 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
 
 | Eszköz                                | Gyártásszám | Típus         | Kép                                                                 |
 |---------------------------------------|-------------|---------------|---------------------------------------------------------------------|
-| **GRF-1300A RF és kommunikációs tréner** | 1300A       | GRF-1300A     | ![GRF-1300A](https://martinez7200.github.io/tavkozles/jegyzokonyv/Amplitúdómoduláció%20vizsgálata/grf-1300a.jpg) |
-| **GSP-730 Spektrumanalizátor (a tréner része)** | 730         | GSP-730       | ![GSP-730](https://martinez7200.github.io/tavkozles/jegyzokonyv/Amplitúdómoduláció%20vizsgálata/hmo1002-hero-1200x735-White-b.jpg) |
+| **GRF-1300A RF és kommunikációs tréner** | 1300A       | GRF-1300A     | ![GRF-1300A] 
+<img width="200" src="https://martinez7200.github.io/tavkozles/jegyzokonyv/Amplitúdómoduláció%20vizsgálata/grf-1300a.jpg)"/> |
+| **GSP-730 Spektrumanalizátor (a tréner része)** | 730         | GSP-730       | ![GSP-730]
+<img width="200" src="https://martinez7200.github.io/tavkozles/jegyzokonyv/Amplitúdómoduláció%20vizsgálata/hmo1002-hero-1200x735-White-b.jpg)"/> |
 | **Jelgenerátor (moduláló jel előállításához)** | (Gyártásszám) | (Típus)       | (Kép hozzáadása szükséges)                                         |
 
    
