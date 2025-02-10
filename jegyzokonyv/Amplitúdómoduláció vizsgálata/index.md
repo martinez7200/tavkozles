@@ -1,6 +1,6 @@
 # Jegyzőkönyv: Amplitúdómoduláció (AM) vizsgálata a GRF-1300A trénerrel
 **Vizsgázó neve**: Horváth Martin   
-**Dátum**: 2025.02.03   
+**Dátum**: 2025.02.10
 **Vizsga helyszín**: V3  
 **Időtartam**: 60 perc  
 
@@ -60,36 +60,6 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
 <img width="500" src="https://martinez7200.github.io/tavkozles/jegyzokonyv/Amplitúdómoduláció vizsgálata/SCR01.BMP"/>
 
 <img width="500" src="https://martinez7200.github.io/tavkozles/jegyzokonyv/Amplitúdómoduláció vizsgálata/TA02.PNG"/>
-
-
-
-
----
-
-## Mérések és elemzés:
-<details>
-
-1. **Jelszint mérése:**
-   - Mérjük meg a generált AM jel jelszintjét a spektrumanalizátor segítségével. A spektrumon figyeljük meg a vivőfrekvenciát és a mellékcsúcsokat.
-   - A jelszintet dB-ben mérjük, és rögzítjük a spektrumanalizátor kijelzőjén található értéket.
-
-2. **Spektrumkép mentése és kiértékelése:**
-   - A spektrumanalizátor segítségével készítsünk egy spektrumképet a mérésről, amely tartalmazza a vivőfrekvenciát, a mellékcsúcsokat, és a modulált jel viselkedését.
-   - Mentjük el a spektrumképet, majd elemezzük a következőket:
-     - Vivőfrekvencia helyzete.
-     - Mellékcsúcsok helyzete és azok erősségei.
-
-3. **Modulációs mélység meghatározása:**
-   - A modulációs mélység meghatározása az amplitúdómodulált jel hullámformájának és a vivője közötti amplitúdóváltozáson alapul.
-   - Mérjük meg a legnagyobb és a legkisebb amplitúdó értékeket, majd számoljuk ki a modulációs mélységet a következő képlettel:
-     \[
-     \text{Modulációs mélység} = \frac{A_{max} - A_{min}}{A_{max} + A_{min}} \times 100 \%
-     \]
-     ahol \( A_{max} \) és \( A_{min} \) a maximális és minimális amplitúdó értékek.
-
-4. **Sávszélesség meghatározása:**
-   - A sávszélességet a spektrumkép alapján mérhetjük. A modulált jel sávszélessége a mellékcsúcsok közötti távolság alapján meghatározható.
-   - A mérés során figyeljük meg a két első mellékcsúcs közötti frekvenciát, és ennek alapján számoljuk ki a sávszélességet.</details>
 
 ---
 
