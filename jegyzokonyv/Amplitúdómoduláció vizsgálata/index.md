@@ -35,9 +35,6 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
 3. **Modulációs mélység:**  
    - 100% modulácós mélységet beállítottuk 63%-ra.
 
-5. **Moduláció beállítása:**
-   - Aktiváljuk az amplitúdómoduláció (AM) üzemmódot a tréneren, és csatlakoztassuk a moduláló jelet.
-
 ---
 
 ## Mérések és elemzés:
