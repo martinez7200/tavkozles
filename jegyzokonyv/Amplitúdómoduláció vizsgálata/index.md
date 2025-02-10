@@ -19,7 +19,7 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
 
 <details> 
    <summary>Képek</summary>
-   <img src="https://martinez7200.github.io/tavkozles/jegyzokonyv/Amplitúdómoduláció vizsgálata/grf-1300a.jpg"/>
+   <img width="500" src="https://martinez7200.github.io/tavkozles/jegyzokonyv/Amplitúdómoduláció vizsgálata/grf-1300a.jpg"/>
    <img src="https://martinez7200.github.io/tavkozles/jegyzokonyv/Amplitúdómoduláció vizsgálata/hmo1002-hero-1200x735-White-b.jpg"/>
 </details> 
 
