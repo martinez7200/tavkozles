@@ -12,11 +12,11 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
 <details> 
    <img src="https://martinez7200.github.io/tavkozles/jegyzokonyv/Amplitúdómoduláció vizsgálata/grf-1300a.jpg"/>
 </details> 
-- Spektrumanalizátor (a tréner része)  
+-Spektrumanalizátor (a tréner része)  
 <details> 
    <img src="https://martinez7200.github.io/tavkozles/jegyzokonyv/Amplitúdómoduláció vizsgálata/hmo1002-hero-1200x735-White-b.jpg"/>
 </details> 
-- Jelgenerátor (moduláló jel előállításához)
+-Jelgenerátor (moduláló jel előállításához)
 
 ---
 
