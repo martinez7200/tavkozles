@@ -71,8 +71,6 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
 - **Sávszélesség:**  30 KHz
 - **Span:** 5 MHz
 - **Vpp:** 1.24V    
-
-      
 - **Vivőfrekvencia:** 900 MHz
 - **Moduláló jel:** 500 kHz szinuszjel
 - **Jelszint:** -32 dB
