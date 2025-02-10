@@ -11,7 +11,7 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
 
 ---
 
-## Használt eszközök:
+# Használt eszközök:
 - **GRF-1300A RF és kommunikációs tréner**
   <br><img width="200" src="https://martinez7200.github.io/tavkozles/jegyzokonyv/Amplitúdómoduláció vizsgálata/grf-1300a.jpg"/>
 - **GSP-730 Spektrumanalizátor (a tréner része)**
@@ -23,8 +23,8 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
 
 ---
 
-## Beállítások:
-# Első mérés
+# Beállítások:
+## Első mérés
 
 1. **Vivőfrekvencia beállítása:**
    - A GRF-1300A tréneren beállítottuk az RF vivőfrekvenciát elöször :**880 MHz**
@@ -35,7 +35,7 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
 3. **Modulációs mélység:**  
    - 100% modulácós mélységet beállítottuk 63%-ra.
 
-<h2>Második mérés</h2>
+## Második mérés
 1. **Vivőfrekvencia beállítása:**
    - A GRF-1300A tréneren beállítottuk az RF vivőfrekvenciát elöször :**880 MHz**
                                                                       
