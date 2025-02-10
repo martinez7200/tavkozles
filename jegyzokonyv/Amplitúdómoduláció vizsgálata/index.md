@@ -45,14 +45,10 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
 3. **Modulációs mélység:**  
    - 100% modulácós mélységet beállítottuk 63%-ra.
 
-    <img width="500" src="https://martinez7200.github.io/tavkozles/jegyzokonyv/Amplitúdómoduláció vizsgálata/Képernyőkép 2025-02-10 143503.png"/>
-
- 
-
-
-
 ---
 ## Eredmények
+  <img width="500" src="https://martinez7200.github.io/tavkozles/jegyzokonyv/Amplitúdómoduláció vizsgálata/Képernyőkép 2025-02-10 143503.png"/>
+
 ## 880 MHz-nél 
 
 <img width="500" src="https://martinez7200.github.io/tavkozles/jegyzokonyv/Amplitúdómoduláció vizsgálata/SCR00.BMP"/>
