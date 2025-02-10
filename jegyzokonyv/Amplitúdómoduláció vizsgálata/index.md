@@ -9,6 +9,9 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
 
 ## Használt eszközök:
 - GRF-1300A RF és kommunikációs tréner
+- <details> 
+   <img src="https://martinez7200.github.io/tavkozles/jegyzokonyv/iptv/its_snapshot_0002.bmp"/>
+</details>
 - Spektrumanalizátor (a tréner része)
 - Jelgenerátor (moduláló jel előállításához)
 
