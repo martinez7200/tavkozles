@@ -93,11 +93,6 @@ A cél az amplitúdómoduláció (AM) előállítása a GRF-1300A RF és kommuni
 
 ---
 
-## Összegzés:
-A kísérlet során sikerült előállítani az amplitúdómodulált jelet a GRF-1300A tréner segítségével, és megvizsgáltuk annak spektrumát. A jelszintet, modulációs mélységet és sávszélességet mérve részletes információkat kaptunk az AM jel viselkedéséről. A mérési adatok alapján meghatároztuk a modulációs mélységet és a sávszélességet, amely segít a moduláció hatékonyságának kiértékelésében.
-
----
-
 ## Mérési adatok:
 - **Vivőfrekvencia:** 880 MHz
 - **Moduláló jel:** 100 kHz szinuszjel
@@ -116,6 +111,7 @@ A kísérlet során sikerült előállítani az amplitúdómodulált jelet a GRF
 - **Vpp:** 1.19V
 
 ---
+## Összegzés:
+A kísérlet során sikerült előállítani az amplitúdómodulált jelet a GRF-1300A tréner segítségével, és megvizsgáltuk annak spektrumát. A jelszintet, modulációs mélységet és sávszélességet mérve részletes információkat kaptunk az AM jel viselkedéséről. A mérési adatok alapján meghatároztuk a modulációs mélységet és a sávszélességet, amely segít a moduláció hatékonyságának kiértékelésében.
 
-A mérési feladatok sikeresen elvégezve, a kísérlet eredményei alapján az AM moduláció jellemzői egyértelműen meghatározhatók.
 
