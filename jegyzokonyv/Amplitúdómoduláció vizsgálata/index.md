@@ -1,6 +1,6 @@
 # Jegyzőkönyv: Amplitúdómoduláció (AM) vizsgálata a GRF-1300A trénerrel
 **Vizsgázó neve**: Horváth Martin   
-**Dátum**: 2025.02.10
+**Dátum**: 2025.02.10  
 **Vizsga helyszín**: V3  
 **Időtartam**: 60 perc  
 
