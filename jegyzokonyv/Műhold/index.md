@@ -11,18 +11,18 @@
 
 ## 2. Feladatok és időbeosztás
 
-### 2.1. Előkészületek (10 perc)
+### 2.1. Előkészületek 
 - **Ellenőrzés**: Az összes szükséges eszköz ellenőrzése.
 - **Munkakörnyezet biztosítása**: Képzési terület megfelelő előkészítése.
 - **LNB választás**: Inverto ULTRA vagy Ekselans SATCR LNB kiválasztása.
 - **Műhold keresés**: Műhold és FTA csatorna kiválasztása internetes adatbázis segítségével (LyngSat, KingOfSat, SatBeams).
 
-### 2.2. Antenna és LNB felszerelése (30 perc)
+### 2.2. Antenna és LNB felszerelése 
 - **Antenna összeszerelése**: D80 Mesh parabola antenna rögzítése tripod állványra.
 - **LNB felszerelése**: LNB megfelelő rögzítése az antennára és polarizációs szög beállítása.
 - **Jelosztó beépítése**: 2-es műholdas jelosztó beépítése.
 
-### 2.3. Antenna beállítása és műhold azonosítása (30 perc)
+### 2.3. Antenna beállítása és műhold azonosítása 
 - **Szabadtéri elhelyezés**: Antenna kihelyezése megfelelő vételi környezetbe.
 - **Irány- és dőlésszög beállítása**: Iránytű és dőlésszögmérő használata az antennához.
 - **Műhold azonosítása**: METEK HDD műszerrel műhold azonosítása és finomhangolás a maximális jelerősség érdekében.
