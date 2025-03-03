@@ -64,12 +64,11 @@
   - Lock állapot: [ ] Igen [ ] Nem
   - Hőmérséklet és időjárási körülmények
   - Transzponder adatok és frekvenciák
-- **Jegyzőkönyv elkészítése és aláírása**.
 
 ## 3. Szituációs feladat
 
 ### 3.1. Helyszín választása
-- **Antenna elhelyezése**: A legideálisabb hely a tetőn vagy a homlokzaton, ahol nincs akadályozva a műholdak felé irányuló rálátás.
+- **Antenna elhelyezése**:
 - **Szempontok**:
   - Minimális akadálymentesség a műholdak felé.
   - Jó szellőzés a megfelelő vétel érdekében.
